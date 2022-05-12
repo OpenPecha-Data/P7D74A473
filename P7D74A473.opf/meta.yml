@@ -118,3 +118,8 @@ source_metadata:
       parent: Vajrakīla
 created_at: '2022-03-01T00:20:10.613922'
 last_modified_at: '2022-03-01T00:20:10.613927'
+statistics:
+  total_words: 14136
+  total_non_words: 1148
+quality:
+  non_words_ratio: 0.08
